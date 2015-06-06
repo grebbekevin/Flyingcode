@@ -19,7 +19,7 @@
 
 html, body {
     height: 100%;
-    width: 100%;
+    max-width: 100%;
 }
 
 body {
@@ -50,6 +50,22 @@ body {
     padding: 10px;
 }
 
-.steps img.vergrootglas {
-    margin: auto;
+#steps img.vergrootglas {
+    width: 486px;
+    height: 486px;
+    position: relative;
+    left: 50%;
+    margin-left: -243px;
+    margin-top: 60px;
+}
+
+#steps ul, #steps ul li {
+    width: 100%;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+#steps ul li {
+    font-size: 30px;
 }
