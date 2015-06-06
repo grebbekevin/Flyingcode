@@ -74,3 +74,126 @@ body {
 #steps ul li h3 {
     font-size: 18px;
 }
+/*toegevoegd sinds kevin z'n pauze */
+#steps
+{
+	background: #F6F6F6;
+	min-width: 640px;
+}
+	#steps .stepholder
+	{
+		position: relative;
+	}
+		#steps h1
+		{
+			width: 100%;
+			text-align: center;
+			margin-bottom: 20px;
+			font-family: 'azo_sansregular';
+			font-weight: 200;
+			font-size: 25px;
+		}
+		#steps ul
+		{
+			width: 100%;
+		}
+			#steps ul li
+			{
+				float: left;
+				width: 20%;
+				list-style: none;
+			}
+			#steps ul li:nth-of-type(2)
+			{
+				margin-top: 100px;
+			}
+			#steps ul li:nth-of-type(4)
+			{
+				margin-top: 50px;
+			}
+				#steps ul li img
+				{
+					display: block;
+					margin: auto;
+					position: relative;
+				}
+				#steps ul li h2
+				{
+					text-align: center;
+					font-family: 'azo_sanslight';
+					font-size: 22px;
+					color: #4882AD;
+				}
+				#steps ul li h3
+				{
+					text-align: center;
+					font-family: azo_sansregular;
+					font-size: 13px;
+					color: #6D94C3;
+				}
+		#steps .step_one { opacity: 1 }
+		#steps .arrow_step_one
+		{
+		  position: absolute;
+		  left: 45px;
+		  top: 120px;
+		  opacity: 0;
+		}
+		#steps .step_two { opacity: 1 }
+		#steps .arrow_step_two
+		{
+			position: absolute;
+			left: 240px;
+			top: 220px;
+			opacity: 0;
+		}
+		#steps .step_three { opacity: 1 }
+		#steps .arrow_step_three
+		{
+			position: absolute;
+			right: 495px;
+			top: 110px;
+			opacity: 0;
+		}
+		#steps .step_four { opacity: 1 }
+		#steps .arrow_step_four
+		{
+			position: absolute;
+			right: 255px;
+			top: 150px;
+			opacity: 0;
+		}
+		#steps .step_five { opacity: 1 }
+
+#info .text
+{
+	font-size: 13px;
+	float: left;
+	width: 75%;
+}
+	#info .text h1
+	{
+		font-family: 'azo_sanslight';
+		font-weight: 600;
+		font-size: 22px;
+		margin-bottom: 20px;
+	}
+	#text
+	{
+		overflow: hidden;
+	}
+		#text ul
+		{
+			position: relative;
+			width: 600px;
+			height: 200px;
+			list-style: none;
+		}
+		#text ul li
+		{
+			position: relative;
+			display: block;
+			float: left;
+			width: 600px;
+			height: 200px;
+		}
