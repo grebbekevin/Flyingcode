@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="com.google.zxing.client.android.captureactivity">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../../xamppfiles/htdocs/phonegab/flyingcode/platforms/android/libs/com.google.zxing.client.android.captureactivity.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/com.google.zxing.client.android.captureactivity.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

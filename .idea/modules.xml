@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../../../../xamppfiles/htdocs/phonegab/flyingcode/platforms/android/CordovaLib/CordovaLib.iml" filepath="$PROJECT_DIR$/../../../../../xamppfiles/htdocs/phonegab/flyingcode/platforms/android/CordovaLib/CordovaLib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../../../xamppfiles/htdocs/phonegab/flyingcode/platforms/android/android.iml" filepath="$PROJECT_DIR$/../../../../../xamppfiles/htdocs/phonegab/flyingcode/platforms/android/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CordovaLib/CordovaLib.iml" filepath="$PROJECT_DIR$/CordovaLib/CordovaLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flyingcode.iml" filepath="$PROJECT_DIR$/Flyingcode.iml" />
     </modules>
   </component>
 </project>
